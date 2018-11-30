@@ -10,7 +10,11 @@ Es muy interesante porque establece un criterio biológico para explicar conduct
 
 Sería muy interesante interpretar lo que los antropólogos dicen agregando la perspectiva biológica y científica (que lleva a la técnica con ciencias básicas).
 
+Por ejemplo si hacemos la pregunta:
+
 - ¿Porqué nace la familia nuclear?
+
+   Es posible responder en términos simples *(pulir redacción y buscar referencias)*
 
    -  El avance tecnológico de la agricultura nos lleva a al 
       concepto de propiedad privada lo que nos lleva al 
@@ -26,6 +30,7 @@ Sería muy interesante interpretar lo que los antropólogos dicen agregando la p
      hijos son sus hijos (no es un problema que tengan tanto las 
      mujeres, no niego que se pueda dar)
 
+ 
  
    
    **TODO**
