@@ -28,4 +28,4 @@ Sería muy interesante interpretar lo que los antropólogos dicen agregando la p
    
    ##Referencias
    
-   [Referencia Schopenahuer Voluntad]: http://google.com
+   [Referencia Schopenahuer Voluntad]: https://josefranciscoescribanomaenza.files.wordpress.com/2016/01/aquc3ad14.pdf
