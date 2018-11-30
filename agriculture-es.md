@@ -1,4 +1,4 @@
-Arthur Schopenhauer menciona que en mucha medida la voluntad es un engaño de la naturaleza [1][Referencia Schopenahuer Voluntad]
+Arthur Schopenhauer menciona que en mucha medida la [voluntad es un engaño de la naturaleza][Referencia Schopenahuer Voluntad]
 
 Es muy interesante porque establece un criterio biológico para explicar conductas humanas. Por ejemplo el amor (al menos en términos de selección inicial de la pareja) lo considera un engaño de la naturaleza agregando elementos darwinianos (yo yo le agrego elementos de bioquímica moderna que no conocía este cuate en el siglo 19) como el hecho de que un individuo busca de manera inconsciente ciertas característas (fenotípicas, mensajes químicos, etc...) en otro para crear un ser mas apto y nuestros lóbulos frontales interpretan este impulso instintivo como "amor"
 
@@ -28,4 +28,4 @@ Sería muy interesante interpretar lo que los antropólogos dicen agregando la p
    
    ##Referencias
    
-   [Referencia Schopenahuer Voluntad]: TODO: Referencia sobre la voluntad de Schopenhauer
+   [Referencia Schopenahuer Voluntad]: http://google.com
